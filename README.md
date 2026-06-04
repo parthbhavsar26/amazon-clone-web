@@ -12,4 +12,4 @@ A front-end clone of Amazon's homepage built with HTML and CSS.
 - Building multi-section web pages
 
 ## Live Demo
-Coming soon
+live
